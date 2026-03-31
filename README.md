@@ -11,6 +11,9 @@ Este projeto tem como objetivo transformar dados operacionais de uma rede de caf
 
 A abordagem aplicada permite não apenas entender o passado, mas também **prever cenários futuros e orientar decisões de negócio**.
 
+Link do Projeto:
+https://docs.google.com/spreadsheets/d/11x42fIYqtg_lbSu8RHFicmidI1_gDYN0fVzW9cSeWqA/edit?usp=sharing
+
 ---
 
 ## Objetivo de Negócio
