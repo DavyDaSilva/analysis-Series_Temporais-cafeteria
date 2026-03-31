@@ -160,8 +160,6 @@ Foi aplicado um **modelo de regressão linear** para identificar os fatores que 
 * Intensificar ações comerciais em períodos de baixa demanda
 * As previsões nos deram um melhor **planejamento operacional das lojas**
 
----
-
 # O que evitar
 
 * Aumentos de preço sem análise de impacto
