@@ -151,11 +151,11 @@ Foi aplicado um **modelo de regressão linear** para identificar os fatores que 
 
 # Proposta de Ações
 
-* Aumentar oferta de produtos estratégicos
-* Ajustar preços com base na sensibilidade do cliente
-* Planejar estoque e operação com base na sazonalidade
+* Aumentar oferta de produtos estratégicos como Café, Chá e bakery que representão **80% do Faturamento**
+* Ajustar preços com base na sensibilidade do cliente, onde os dados nos dizem que o preço é de correlação negativa
+* Planejar estoque e operação com base no padrão da sazonalidade que **há quedas perto do fim do mês e aumentos no meio do mês**
 * Intensificar ações comerciais em períodos de baixa demanda
-* Utilizar previsões para planejamento operacional
+* As previsões nos deram um melhor **planejamento operacional das lojas**
 
 ---
 
@@ -177,6 +177,7 @@ A combinação de análise descritiva, diagnóstica, preditiva e prescritiva per
 * Saber exatamente >**as variaveis que mais tem correlação com o aumento do Faturamento**< até aqui
 * Antecipação de cenários já que a queda no final do mês é um padrão que se repete
 * Tomada de decisão mais assertiva com prediçôes de **8,64** de margem de erro
+* Recomenda-se a realização de **testes A/B** para validar a sensibilidade ao preço, comparando diferentes estratégias de precificação e seus impactos no faturamento.
 
 ---
 
@@ -186,6 +187,7 @@ A combinação de análise descritiva, diagnóstica, preditiva e prescritiva per
 * Automação das análises
 * Construção de dashboards interativos
 * Monitoramento contínuo dos KPIs
+* melhor teste de elasticidade de Preço com teste A, B
 
 ---
 
