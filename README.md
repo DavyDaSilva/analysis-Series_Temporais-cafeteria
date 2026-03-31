@@ -26,17 +26,17 @@ A abordagem aplicada permite não apenas entender o passado, mas também **preve
 
 A análise descritiva permitiu uma visão geral do desempenho da rede.
 
-📌1 (aqui gráfico de faturamento ao longo do tempo)
+📌1 (aqui o gráfico de faturamento ao longo do tempo)
 <p align="center">
   <img src="img_analysis/1_faturamento_tempo.png" width="45%" />
 </p> 
 
-📌2 (aqui gráfico de faturamento por loja)
+📌2 (aqui o gráfico de faturamento por loja)
 <p align="center">
   <img src="img_analysis/2_faturamento_lojas.png" width="45%" />
 </p> 
 
-📌3 (aqui gráfico de produtos mais vendidos)
+📌3 (aqui o gráfico de produtos mais vendidos)
 <p align="center">
   <img src="img_analysis/3_faturamento_produto.png" width="45%" />
 </p> 
@@ -84,12 +84,12 @@ Foi aplicada análise de **séries temporais**, com decomposição em:
 * Sazonalidade (Seasonality)
 * Ruído (Residual)
 
-📌7 (aqui gráfico da sazonalidade e dessazonalização)
+📌7 (aqui o gráfico da sazonalidade e dessazonalização)
 <p align="center">
   <img src="img_analysis/7_Sazonalidade_Dessazonalizacao.png" width="45%" />
 </p> 
 
-📌8 (aqui gráfico de comparaçao do Faturamento Real com Prediçao)
+📌8 (aqui o gráfico de comparaçao do Faturamento Real com Prediçao)
 <p align="center">
   <img src="img_analysis/8_Faturamento_Previsao.png" width="45%" />
 </p> 
@@ -125,7 +125,7 @@ Foi aplicada análise de **séries temporais**, com decomposição em:
 
 Foi aplicado um **modelo de regressão linear** para identificar os fatores que impactam o faturamento.
 
-📌9 (aqui imagem da tabela de regressão)
+📌9 (aqui a imagem da tabela de regressão)
 <p align="center">
   <img src="img_analysis/9_impacto_variaveis.png" width="45%" />
 </p> 
