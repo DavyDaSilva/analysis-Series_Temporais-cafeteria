@@ -176,7 +176,7 @@ A combinação de análise descritiva, diagnóstica, preditiva e prescritiva per
 * Melhor compreensão do desempenho já que podemos ver um exato padrão nos dados
 * Saber exatamente >**as variaveis que mais tem correlação com o aumento do Faturamento**< até aqui
 * Antecipação de cenários já que a queda no final do mês é um padrão que se repete
-* Tomada de decisão mais assertiva com prediçôes de **8,64** de margem de erro
+* Tomada de decisão mais assertiva com prediçôes de **8,64%** de margem de erro
 * Recomenda-se a realização de **testes A/B** para validar a sensibilidade ao preço, comparando diferentes estratégias de precificação e seus impactos no faturamento.
 
 ---
