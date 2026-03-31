@@ -184,16 +184,6 @@ A combinação de análise descritiva, diagnóstica, preditiva e prescritiva per
 
 ---
 
-# Próximos Passos
-
-* Implementação de modelos preditivos mais avançados
-* Automação das análises
-* Construção de dashboards interativos
-* Monitoramento contínuo dos KPIs
-* melhor teste de elasticidade de Preço com teste A, B
-
----
-
 # Ferramentas
 
 * Google Sheets
