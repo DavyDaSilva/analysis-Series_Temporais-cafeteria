@@ -1,6 +1,11 @@
-# ☕ Projeto de Análise de Dados — Rede de Cafeterias
+# Projeto de Análise de Dados — Rede de Cafeterias
 
-## 📊 Visão Geral
+* 1 Análise Descritiva
+* 2 Análise Diagnóstica
+* 3 Análise Preditiva
+* 4 Análise Prescritiva
+
+## Visão Geral
 
 Este projeto tem como objetivo transformar dados operacionais de uma rede de cafeterias em **insights estratégicos**, utilizando técnicas de análise descritiva, diagnóstica, preditiva e prescritiva.
 
@@ -21,11 +26,11 @@ A abordagem aplicada permite não apenas entender o passado, mas também **preve
 
 A análise descritiva permitiu uma visão geral do desempenho da rede.
 
-📌 (aqui gráfico de faturamento ao longo do tempo)
+📌1 (aqui gráfico de faturamento ao longo do tempo)
 
-📌 (aqui gráfico de volume de vendas)
+📌2 (aqui gráfico de volume de vendas por loja)
 
-📌 (aqui gráfico de produtos mais vendidos)
+📌3 (aqui gráfico de produtos mais vendidos)
 
 ### Insights:
 
@@ -39,12 +44,13 @@ A análise descritiva permitiu uma visão geral do desempenho da rede.
 
 Nesta etapa, foram investigadas as causas dos padrões observados.
 
-📌 (aqui gráfico de comparação entre períodos)
+📌4 (aqui a tabela de Correlacionamento de variaveis)
 
-📌 (aqui gráfico por produto/categoria)
+📌5 e 6 (aqui o Preço unitário médio e Faturamento por Mês)
 
 ### Insights:
 
+* O Preço unitário médio tem revalação negativa com Faturamento
 * Diferenças significativas entre períodos de alta e baixa demanda
 * Produtos com maior contribuição para o faturamento
 * Indícios de fatores que influenciam variações nas vendas
@@ -59,21 +65,14 @@ Foi aplicada análise de **séries temporais**, com decomposição em:
 * Sazonalidade (Seasonality)
 * Ruído (Residual)
 
-📌 (aqui gráfico da série temporal original)
+📌7 (aqui gráfico da sazonalidade e dessazonalização)
 
-📌 (aqui gráfico da tendência)
+📌8 (aqui gráfico de comparaçao do Faturamento Real com Prediçao)
 
-📌 (aqui gráfico da sazonalidade)
-
-📌 (aqui gráfico da dessazonalização)
 
 ---
 
-## Avaliação do Modelo
-
-📌 (aqui imagem com MAPE e RMSE)
-
-### Métricas:
+### Avaliação do Modelo Métricas:
 
 * **MAPE: 8,64%**
 * **RMSE: R$ 363,84**
@@ -81,8 +80,6 @@ Foi aplicada análise de **séries temporais**, com decomposição em:
 
   * Mín: R$ 2.037,10
   * Máx: R$ 6.403,91
-
----
 
 ## Interpretação do Erro
 
@@ -104,7 +101,7 @@ Foi aplicada análise de **séries temporais**, com decomposição em:
 
 Foi aplicado um **modelo de regressão linear** para identificar os fatores que impactam o faturamento.
 
-📌 (aqui imagem da tabela de regressão)
+📌9 (aqui imagem da tabela de regressão)
 
 ---
 
