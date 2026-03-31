@@ -27,14 +27,25 @@ A abordagem aplicada permite não apenas entender o passado, mas também **preve
 A análise descritiva permitiu uma visão geral do desempenho da rede.
 
 📌1 (aqui gráfico de faturamento ao longo do tempo)
+<p align="center">
+  <img src="img_analysis/1_faturamento_tempo.png" width="45%" />
+</p> 
 
-📌2 (aqui gráfico de volume de vendas por loja)
+📌2 (aqui gráfico de faturamento por loja)
+<p align="center">
+  <img src="img_analysis/2_faturamento_lojas.png" width="45%" />
+</p> 
 
 📌3 (aqui gráfico de produtos mais vendidos)
+<p align="center">
+  <img src="img_analysis/3_faturamento_produto.png" width="45%" />
+</p> 
 
 ### Insights:
 
 * Identificação dos produtos com maior volume e impacto no faturamento
+* Todas as lojas tiverem desempenho igual com faturamentos semelhantes
+* Os produtos mantiveram o mesmo padrão de venda independente da loja
 * Distribuição de receita ao longo do tempo
 * Padrões iniciais de comportamento de vendas
 
@@ -45,15 +56,23 @@ A análise descritiva permitiu uma visão geral do desempenho da rede.
 Nesta etapa, foram investigadas as causas dos padrões observados.
 
 📌4 (aqui a tabela de Correlacionamento de variaveis)
+<p align="center">
+  <img src="img_analysis/4_correl.png" width="45%" />
+</p> 
 
 📌5 e 6 (aqui o Preço unitário médio e Faturamento por Mês)
+<p align="center">
+  <img src="img_analysis/5_faturamento_acomulativo_porMes.png" width="45%" />
+  <img src="img_analysis/6_precoUnitarioMedio_acomulativo_porMes.png" width="45%" />
+</p> 
 
 ### Insights:
 
 * O Preço unitário médio tem revalação negativa com Faturamento
 * Diferenças significativas entre períodos de alta e baixa demanda
 * Produtos com maior contribuição para o faturamento
-* Indícios de fatores que influenciam variações nas vendas
+* Indícios de fatores que influenciam variações nas vendas como Preço Unitário Médio e Itens vendidos
+* Todas as lojas mantiveram o mesmo desempenho até mesmo com quedas iguais por mês
 
 ---
 
@@ -66,9 +85,14 @@ Foi aplicada análise de **séries temporais**, com decomposição em:
 * Ruído (Residual)
 
 📌7 (aqui gráfico da sazonalidade e dessazonalização)
+<p align="center">
+  <img src="img_analysis/7_Sazonalidade_Dessazonalizacao.png" width="45%" />
+</p> 
 
 📌8 (aqui gráfico de comparaçao do Faturamento Real com Prediçao)
-
+<p align="center">
+  <img src="img_analysis/8_Faturamento_Previsao.png" width="45%" />
+</p> 
 
 ---
 
@@ -91,9 +115,9 @@ Foi aplicada análise de **séries temporais**, com decomposição em:
 
 ## Insights Preditivos
 
-* Identificação de tendência de comportamento das vendas
-* Presença de padrões sazonais relevantes
-* Capacidade de antecipar períodos de maior e menor demanda
+* Identificação de tendência crescente de comportamento das vendas
+* Presença de padrões sazonais relevantes que são semanais e principalmente mensais, com queda no final do mês
+* Isso nos dá a capacidade de antecipar períodos de maior e menor demanda
 
 ---
 
@@ -102,6 +126,9 @@ Foi aplicada análise de **séries temporais**, com decomposição em:
 Foi aplicado um **modelo de regressão linear** para identificar os fatores que impactam o faturamento.
 
 📌9 (aqui imagem da tabela de regressão)
+<p align="center">
+  <img src="img_analysis/9_impacto_variaveis.png" width="45%" />
+</p> 
 
 ---
 
@@ -146,9 +173,10 @@ O projeto demonstra a aplicação prática de análise de dados para geração d
 
 A combinação de análise descritiva, diagnóstica, preditiva e prescritiva permite:
 
-* Melhor compreensão do desempenho
-* Antecipação de cenários
-* Tomada de decisão mais assertiva
+* Melhor compreensão do desempenho já que podemos ver um exato padrão nos dados
+* Saber exatamente **as variaveis que mais tem correlação com o almento do Faturamento** até aqui
+* Antecipação de cenários já que a queda no final do mês é um padrão que se repete
+* Tomada de decisão mais assertiva com prediçôes de **8,64** de margem de erro
 
 ---
 
