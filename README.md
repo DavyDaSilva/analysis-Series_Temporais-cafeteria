@@ -174,7 +174,7 @@ O projeto demonstra a aplicação prática de análise de dados para geração d
 A combinação de análise descritiva, diagnóstica, preditiva e prescritiva permite:
 
 * Melhor compreensão do desempenho já que podemos ver um exato padrão nos dados
-* Saber exatamente **as variaveis que mais tem correlação com o almento do Faturamento** até aqui
+* Saber exatamente >**as variaveis que mais tem correlação com o aumento do Faturamento**< até aqui
 * Antecipação de cenários já que a queda no final do mês é um padrão que se repete
 * Tomada de decisão mais assertiva com prediçôes de **8,64** de margem de erro
 
