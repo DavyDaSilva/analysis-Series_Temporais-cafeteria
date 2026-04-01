@@ -14,6 +14,11 @@ A abordagem aplicada permite não apenas entender o passado, mas também **preve
 Link do Projeto:
 https://docs.google.com/spreadsheets/d/11x42fIYqtg_lbSu8RHFicmidI1_gDYN0fVzW9cSeWqA/edit?usp=sharing
 
+📌0 (aqui um Mind Map dos dados que eu fiz)
+<p align="center">
+  <img src="img_analysis/0_MainMap.png" width="45%" />
+</p> 
+
 ---
 
 ## Objetivo de Negócio
