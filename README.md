@@ -1,5 +1,4 @@
-# Projeto de Análise de Dados — Rede de Cafeterias
-# (com Séries Temporais)
+# Projeto de Análise de Dados — Rede de Cafeterias (com Séries Temporais)
 
 * 1 Análise Descritiva
 * 2 Análise Diagnóstica
