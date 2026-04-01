@@ -64,7 +64,7 @@ Nesta etapa, foram investigadas as causas dos padrões observados.
   <img src="img_analysis/4_correl.png" width="45%" />
 </p> 
 
-📌5 e 6 (aqui o Preço unitário médio e Faturamento por Mês)
+📌5 e 6 (aqui o Faturamento por Mês & o Preço unitário médio por Mês)
 <p align="center">
   <img src="img_analysis/5_faturamento_acomulativo_porMes.png" width="45%" />
   <img src="img_analysis/6_precoUnitarioMedio_acomulativo_porMes.png" width="45%" />
