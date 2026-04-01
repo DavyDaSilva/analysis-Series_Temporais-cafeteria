@@ -64,7 +64,7 @@ Nesta etapa, foram investigadas as causas dos padrões observados.
   <img src="img_analysis/4_correl.png" width="45%" />
 </p> 
 
-📌5 e 6 (aqui o Faturamento por Mês & o Preço unitário médio por Mês)
+📌5 e 6 (aqui o **Faturamento por Mês** & o **Preço unitário médio por Mês**)
 <p align="center">
   <img src="img_analysis/5_faturamento_acomulativo_porMes.png" width="45%" />
   <img src="img_analysis/6_precoUnitarioMedio_acomulativo_porMes.png" width="45%" />
@@ -88,12 +88,12 @@ Foi aplicada análise de **séries temporais**, com decomposição em:
 * Sazonalidade (Seasonality)
 * Ruído (Residual)
 
-📌7 (aqui o gráfico da sazonalidade e dessazonalização)
+📌7 (aqui o gráfico da **sazonalidade** e **dessazonalização**)
 <p align="center">
   <img src="img_analysis/7_Sazonalidade_Dessazonalizacao.png" width="45%" />
 </p> 
 
-📌8 (aqui o gráfico de comparaçao do Faturamento Real com Prediçao)
+📌8 (aqui o gráfico de comparaçao do **Faturamento Real** com **Predição**)
 <p align="center">
   <img src="img_analysis/8_Faturamento_Previsao.png" width="45%" />
 </p> 
