@@ -47,7 +47,7 @@ A análise descritiva permitiu uma visão geral do desempenho da rede.
 ### Insights:
 
 * O faturamento tem subido ao longo dos mêses
-* Identificação dos produtos com maior volume e impacto no faturamento
+* Identificação dos produtos com maior volume e impacto no faturamento (3 produtos com 80% do Faturamento)
 * Todas as lojas tiverem desempenho igual com faturamentos semelhantes
 * Os produtos mantiveram o mesmo padrão de venda independente da loja
 * Distribuição de receita ao longo do tempo
