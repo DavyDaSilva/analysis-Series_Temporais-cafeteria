@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados — Rede de Cafeterias
+# Projeto de Análise de Dados com Séries Temporais — Rede de Cafeterias
 
 * 1 Análise Descritiva
 * 2 Análise Diagnóstica
@@ -46,6 +46,7 @@ A análise descritiva permitiu uma visão geral do desempenho da rede.
 
 ### Insights:
 
+* O faturamento tem subido ao longo dos mêses
 * Identificação dos produtos com maior volume e impacto no faturamento
 * Todas as lojas tiverem desempenho igual com faturamentos semelhantes
 * Os produtos mantiveram o mesmo padrão de venda independente da loja
@@ -133,16 +134,12 @@ Foi aplicado um **modelo de regressão linear** para identificar os fatores que 
   <img src="img_analysis/9_impacto_variaveis.png" width="45%" />
 </p> 
 
----
-
 ## Principais Resultados
 
 * **Produtos únicos (+)** → impacto positivo no faturamento
 * **Preço médio (-)** → impacto negativo relevante
 * **Categorias (-)** → possível excesso de complexidade
 * Variáveis não significativas foram desconsideradas na tomada de decisão
-
----
 
 ## Interpretação de Negócio
 
@@ -158,13 +155,14 @@ Foi aplicado um **modelo de regressão linear** para identificar os fatores que 
 * Ajustar preços com base na sensibilidade do cliente, onde os dados nos dizem que o preço é de correlação negativa
 * Planejar estoque e operação com base no padrão da sazonalidade que **há quedas perto do fim do mês e aumentos no meio do mês**
 * Intensificar ações comerciais em períodos de baixa demanda
+* Fazer **testes A/B** para ajustar melhor a elasticidade de preço para maximizar o lucro mesmo em diferentes periodos ocilantes mostrado nos dados
 * As previsões nos deram um melhor **planejamento operacional das lojas**
 
 # O que evitar
 
 * Aumentos de preço sem análise de impacto
-* Expansão descontrolada de categorias
-* Ignorar padrões sazonais
+* Expansão descontrolada de categorias (já que os dados mostram que categoria unica é de correlaçâo negativa)
+* Não podemos ignorar padrões sazonais pois eles se mostram cada mês mais fortes
 
 ---
 
