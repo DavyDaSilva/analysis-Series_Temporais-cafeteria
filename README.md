@@ -182,7 +182,7 @@ A combinação de análise descritiva, diagnóstica, preditiva e prescritiva per
 * Saber exatamente >**as variaveis que mais tem correlação com o aumento do Faturamento**< até aqui
 * Antecipação de cenários já que a queda no final do mês é um padrão que se repete
 * Tomada de decisão mais assertiva com prediçôes de **8,64%** de margem de erro
-* Recomenda-se a realização de **testes A/B** para validar a sensibilidade ao preço, comparando diferentes estratégias de precificação e seus impactos no faturamento.
+* Recomenda-se a realização de **testes A/B** em uma das 3 lojas para validar a sensibilidade ao preço já que as 3 lojas demontram desempenho extremamente semelhantes, para assim comparar diferentes estratégias de precificação e seus impactos no faturamento.
 
 ---
 
