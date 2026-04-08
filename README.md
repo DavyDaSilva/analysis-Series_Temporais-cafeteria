@@ -161,7 +161,7 @@ Foi aplicado um **modelo de regressão linear** para identificar os fatores que 
 * Ajustar preços com base na sensibilidade do cliente, onde os dados nos dizem que o preço é de correlação negativa
 * Planejar estoque e operação com base no padrão da sazonalidade que **há quedas perto do fim do mês e aumentos no meio do mês**
 * Intensificar ações comerciais em períodos de baixa demanda
-* Fazer **testes A/B** para ajustar melhor a elasticidade de preço para maximizar o lucro mesmo em diferentes periodos ocilantes mostrado nos dados
+* Fazer **testes A/B** em uma das 3 lojas para ajustar melhor a elasticidade de preço para maximizar o lucro mesmo em diferentes periodos ocilantes mostrado nos dados
 * As previsões nos deram um melhor **planejamento operacional das lojas**
 
 # O que evitar
