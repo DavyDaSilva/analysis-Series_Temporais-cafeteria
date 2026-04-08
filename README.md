@@ -49,7 +49,7 @@ A análise descritiva permitiu uma visão geral do desempenho da rede.
   <img src="img_analysis/3_faturamento_produto.png" width="45%" />
 </p> 
 
-### Insights:
+### 🟡Insights:
 
 * O faturamento tem subido ao longo dos mêses
 * Identificação dos produtos com maior volume e impacto no faturamento (3 produtos com 80% do Faturamento)
@@ -75,7 +75,7 @@ Nesta etapa, foram investigadas as causas dos padrões observados.
   <img src="img_analysis/6_precoUnitarioMedio_acomulativo_porMes.png" width="45%" />
 </p> 
 
-### Insights:
+### 🟡Insights:
 
 * O Preço unitário médio tem revalação negativa com Faturamento
 * Diferenças significativas entre períodos de alta e baixa demanda
@@ -122,7 +122,7 @@ Foi aplicada análise de **séries temporais**, com decomposição em:
 
 ---
 
-## Insights Preditivos
+## 🟡Insights Preditivos
 
 * Identificação de tendência crescente de comportamento das vendas
 * Presença de padrões sazonais relevantes que são semanais e principalmente mensais, com queda no final do mês
@@ -154,7 +154,7 @@ Foi aplicado um **modelo de regressão linear** para identificar os fatores que 
 
 ---
 
-# Proposta de Ações
+# 🟡Proposta de Ações
 
 * Aumentar oferta de produtos estratégicos como Café, Chá e bakery que representão **80% do Faturamento**
 * Ajustar preços com base na sensibilidade do cliente, onde os dados nos dizem que o preço é de correlação negativa
