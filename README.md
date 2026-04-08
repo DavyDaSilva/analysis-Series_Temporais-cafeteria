@@ -66,7 +66,7 @@ Nesta etapa, foram investigadas as causas dos padrões observados.
 
 📌4 (aqui a tabela de Correlacionamento de variaveis)
 <p align="center">
-  <img src="img_analysis/4_correl.png" width="45%" />
+  <img src="img_analysis/4_correl.png" width="30%" />
 </p> 
 
 📌5 e 6 (aqui o **Faturamento por Mês** & o **Preço unitário médio por Mês**)
