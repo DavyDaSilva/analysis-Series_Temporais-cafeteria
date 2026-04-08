@@ -127,6 +127,7 @@ Foi aplicada análise de **séries temporais**, com decomposição em:
 * Identificação de tendência crescente de comportamento das vendas
 * Presença de padrões sazonais relevantes que são semanais e principalmente mensais, com queda no final do mês
 * Isso nos dá a capacidade de antecipar períodos de maior e menor demanda
+* Um ótimo modelo segundo a Interpretação do Erro feito acima, com **8,64%** de erro que seria aproximadamente **R$ 363**
 
 ---
 
